@@ -1,1 +1,1 @@
-# Data Science Lectures and Projects 
+# Data Science Projects 
